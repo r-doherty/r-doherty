@@ -1,9 +1,7 @@
 ### Oh hi there... 👋
 
 Portfolio: https://r-doherty.github.io/portfolio/
-
 LinkedIn: https://www.linkedin.com/in/rjd-dev/
-
 Personal / Freelance (Events): https://rjdevents.com/
 
 <hr>
