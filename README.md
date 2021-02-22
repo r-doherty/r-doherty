@@ -4,7 +4,7 @@ Portfolio: https://r-doherty.github.io/portfolio/
 
 LinkedIn: https://www.linkedin.com/in/rjd-dev/
 
-Personal / Freelance (Events): https://rjdevents.com/
+Personal / Freelance: https://ryanjdoherty.com
 
 <hr>
 
@@ -12,7 +12,7 @@ Personal / Freelance (Events): https://rjdevents.com/
 - I’m currently working on          ... scout. — a project management platform for the Live Entertainment Industry 👨‍💻
 - I’m currently learning            ... about React 💻
 - Ask me about                      ... Music 👨‍🎤
-- How to reach me            ... ryan@ryanjdoherty.com 📬
+- How to reach me                   ... ryan@ryanjdoherty.com 📬
 - Fun fact                          ... I'm the proud owner of a Superbowl Ring (LIV - go Chiefs!) 🏈
 </pre>
 
