@@ -2,7 +2,7 @@
 
 Personal / Freelance: https://ryanjdoherty.com
 
-Portfolio: https://r-doherty.github.io/portfolio/
+Toy Projects: https://r-doherty.github.io/portfolio/
 
 LinkedIn: https://www.linkedin.com/in/rjd-dev/
 
