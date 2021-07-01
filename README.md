@@ -1,10 +1,21 @@
 ### Oh hi there... 👋
 
-Personal / Freelance: https://ryanjdoherty.com
+<pre>
+- How to reach me                   ... ryan@ryanjdoherty.com 📬
+- LinkedIn                          ... https://www.linkedin.com/in/rjd-dev/
+- Personal                          ... https://ryanjdoherty.com
+</pre>
 
-Sample Projects: https://r-doherty.github.io/portfolio/
+<hr>
 
-LinkedIn: https://www.linkedin.com/in/rjd-dev/
+Recent Projects...
+
+* https://r-doherty.github.io/rotating-nav/
+* https://r-doherty.github.io/javascript-progress-steps/
+* https://r-doherty.github.io/bootstrap-apparel-site/
+* https://r-doherty.github.io/expanding-cards/
+* https://r-doherty.github.io/photo-blog/
+* https://r-doherty.github.io/portfolio/
 
 <hr>
 
