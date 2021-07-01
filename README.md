@@ -1,14 +1,16 @@
 ### Oh hi there... 👋
 
-<pre>
-- How to reach me                   ... ryan@ryanjdoherty.com 📬
-- LinkedIn                          ... https://www.linkedin.com/in/rjd-dev/
-- Personal                          ... https://ryanjdoherty.com
-</pre>
+
+
+> https://www.linkedin.com/in/rjd-dev/
+
+> ryan@ryanjdoherty.com 📬
+
+> https://ryanjdoherty.com
 
 <hr>
 
-Recent Projects...
+### Recent Projects...
 
 * https://r-doherty.github.io/rotating-nav/
 * https://r-doherty.github.io/javascript-progress-steps/
