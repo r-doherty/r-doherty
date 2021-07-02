@@ -15,6 +15,7 @@
 * https://r-doherty.github.io/rotating-nav/
 * https://r-doherty.github.io/javascript-progress-steps/
 * https://r-doherty.github.io/bootstrap-apparel-site/
+* https://r-doherty.github.io/hidden-search-widget/
 * https://r-doherty.github.io/expanding-cards/
 * https://r-doherty.github.io/photo-blog/
 * https://r-doherty.github.io/portfolio/
