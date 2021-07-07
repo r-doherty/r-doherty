@@ -11,6 +11,7 @@
 ### Recent Projects...
 
 * https://r-doherty.github.io/split-landing-page/
+* https://r-doherty.github.io/scroll-animation/
 * https://r-doherty.github.io/rotating-nav/
 * https://r-doherty.github.io/javascript-progress-steps/
 * https://r-doherty.github.io/bootstrap-apparel-site/
