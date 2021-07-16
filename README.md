@@ -10,6 +10,7 @@
 
 ### Recent Projects...
 
+* https://r-doherty.github.io/form-wave-animation/
 * https://r-doherty.github.io/split-landing-page/
 * https://r-doherty.github.io/scroll-animation/
 * https://r-doherty.github.io/rotating-nav/
