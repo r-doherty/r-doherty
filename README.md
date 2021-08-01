@@ -11,6 +11,9 @@
 ### Recent Projects...
 
 * https://r-doherty.github.io/random-choice-picker/
+* https://r-doherty.github.io/faq-collapse/
+* https://r-doherty.github.io/event-key-codes/
+* https://r-doherty.github.io/dad-jokes/
 * https://r-doherty.github.io/sound-board/
 * https://r-doherty.github.io/form-wave-animation/
 * https://r-doherty.github.io/split-landing-page/
