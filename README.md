@@ -4,7 +4,7 @@
 
 > https://www.linkedin.com/in/rjd-dev/
 
-> ryan@ryanjdoherty.com 📬
+> 📬 ryan@ryanjdoherty.com
 
 <hr>
 
