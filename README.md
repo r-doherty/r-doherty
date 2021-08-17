@@ -1,4 +1,4 @@
-### Oh hi there.... 👋
+### Oh hi there... 👋
 
 > https://ryanjdoherty.com
 
