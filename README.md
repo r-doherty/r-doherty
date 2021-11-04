@@ -12,11 +12,11 @@
 
 Project | Deployment | Repo
 --- | --- | ---
-Random Choice Picker | https://r-doherty.github.io/random-choice-picker/ | https://github.com/r-doherty/random-choice-picker
+Random Choice Picker | https://rd-demos.github.io/random-choice-picker/ | https://github.com/rd-demos/random-choice-picker
 Dad Jokes | https://r-doherty.github.io/dad-jokes/ | https://github.com/r-doherty/dad-jokes
 Sound Board | https://r-doherty.github.io/sound-board/ | https://github.com/r-doherty/sound-board
 Form Wave Animation | https://r-doherty.github.io/form-wave-animation/ | https://github.com/r-doherty/form-wave-animation
-FAQ Collapse | https://r-doherty.github.io/faq-collapse/ | https://github.com/r-doherty/faq-collapse
+FAQ Collapse | https://rd-demos.github.io/faq-collapse/ | https://github.com/rd-demos/faq-collapse
 Score Keeper | https://rd-demos.github.io/score-keeper/ | https://github.com/rd-demos/score-keeper
 Event Key Codes | https://r-doherty.github.io/event-key-codes/ | https://github.com/r-doherty/event-key-codes
 Split Landing Page | https://r-doherty.github.io/split-landing-page/ | https://github.com/r-doherty/split-landing-page
