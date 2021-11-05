@@ -24,11 +24,11 @@ Scroll Animation | https://rd-demos.github.io/scroll-animation/ | https://github
 Rotating Nav | https://rd-demos.github.io/rotating-nav/ | https://github.com/rd-demos/rotating-nav
 Blurry Loading | https://rd-demos.github.io/blurry-loading/ | https://github.com/rd-demos/blurry-loading
 Progress Steps | https://rd-demos.github.io/javascript-progress-steps/ | https://github.com/rd-demos/javascript-progress-steps
-Bootstrap Apparel Site | https://r-doherty.github.io/bootstrap-apparel-site/ | https://github.com/r-doherty/bootstrap-apparel-site
+Bootstrap Apparel Site | https://rd-demos.github.io/bootstrap-apparel-site/ | https://github.com/rd-demos/bootstrap-apparel-site
 Hidden Search Widget | https://rd-demos.github.io/hidden-search-widget/ | https://github.com/rd-demos/hidden-search-widget
-Expanding Cards | https://r-doherty.github.io/expanding-cards/ | https://github.com/r-doherty/expanding-cards
-Photo Blog | https://r-doherty.github.io/photo-blog/ | https://github.com/r-doherty/photo-blog
-Portfolio | https://r-doherty.github.io/portfolio/ | https://github.com/r-doherty/portfolio
+Expanding Cards | https://rd-demos.github.io/expanding-cards/ | https://github.com/rd-demos/expanding-cards
+Photo Blog | https://rd-demos.github.io/photo-blog/ | https://github.com/rd-demos/photo-blog
+Portfolio | https://rd-demos.github.io/portfolio/ | https://github.com/rd-demos/portfolio
 
 <hr>
 
