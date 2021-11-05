@@ -24,7 +24,7 @@ Scroll Animation | https://rd-demos.github.io/scroll-animation/ | https://github
 Rotating Nav | https://rd-demos.github.io/rotating-nav/ | https://github.com/rd-demos/rotating-nav
 Progress Steps | https://rd-demos.github.io/javascript-progress-steps/ | https://github.com/rd-demos/javascript-progress-steps
 Bootstrap Apparel Site | https://r-doherty.github.io/bootstrap-apparel-site/ | https://github.com/r-doherty/bootstrap-apparel-site
-Hidden Search Widget | https://r-doherty.github.io/hidden-search-widget/ | https://github.com/r-doherty/hidden-search-widget
+Hidden Search Widget | https://rd-demos.github.io/hidden-search-widget/ | https://github.com/rd-demos/hidden-search-widget
 Expanding Cards | https://r-doherty.github.io/expanding-cards/ | https://github.com/r-doherty/expanding-cards
 Photo Blog | https://r-doherty.github.io/photo-blog/ | https://github.com/r-doherty/photo-blog
 Portfolio | https://r-doherty.github.io/portfolio/ | https://github.com/r-doherty/portfolio
