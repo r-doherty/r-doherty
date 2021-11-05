@@ -22,6 +22,7 @@ Event Key Codes | https://rd-demos.github.io/event-key-codes/ | https://github.c
 Split Landing Page | https://rd-demos.github.io/split-landing-page/ | https://github.com/rd-demos/split-landing-page
 Scroll Animation | https://rd-demos.github.io/scroll-animation/ | https://github.com/rd-demos/scroll-animation
 Rotating Nav | https://rd-demos.github.io/rotating-nav/ | https://github.com/rd-demos/rotating-nav
+Blurry Loading | https://rd-demos.github.io/blurry-loading/ | https://github.com/rd-demos/blurry-loading
 Progress Steps | https://rd-demos.github.io/javascript-progress-steps/ | https://github.com/rd-demos/javascript-progress-steps
 Bootstrap Apparel Site | https://r-doherty.github.io/bootstrap-apparel-site/ | https://github.com/r-doherty/bootstrap-apparel-site
 Hidden Search Widget | https://rd-demos.github.io/hidden-search-widget/ | https://github.com/rd-demos/hidden-search-widget
