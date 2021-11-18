@@ -42,11 +42,6 @@ Portfolio | https://rd-demos.github.io/portfolio/ | https://github.com/rd-demos/
 
 <hr>
 
-### Vistors:
-
-![Visitor Count](https://profile-counter.glitch.me/r-doherty/count.svg)
-
-
 <!--
 **r-doherty/r-doherty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
