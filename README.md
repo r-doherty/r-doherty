@@ -12,6 +12,7 @@
 
 Project | Deployment | Repo
 --- | --- | ---
+Three JS Splash Page (Plane) | https://rd-demos.github.io/three-js-plane-animation/ | https://github.com/rd-demos/three-js-plane-animation
 Random Choice Picker | https://rd-demos.github.io/random-choice-picker/ | https://github.com/rd-demos/random-choice-picker
 Dad Jokes | https://rd-demos.github.io/dad-jokes/ | https://github.com/rd-demos/dad-jokes
 Sound Board | https://rd-demos.github.io/sound-board/ | https://github.com/rd-demos/sound-board
