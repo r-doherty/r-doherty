@@ -34,8 +34,8 @@ Portfolio | https://rd-demos.github.io/portfolio/ | https://github.com/rd-demos/
 <hr>
 
 <pre>
-- I’m currently working on          ... scout. — a project management platform for the Live Entertainment Industry 👨‍💻
-- I’m currently learning            ... about React 💻
+- I’m currently working on          ... e-commerce storefronts + shopify integrations for merchandising 👨‍💻
+- I’m currently learning            ... about Three.js 💻
 - Ask me about                      ... Music 👨‍🎤
 - How to reach me                   ... ryan@ryanjdoherty.com 📬
 - Fun fact                          ... I'm the proud owner of a Superbowl Ring (LIV - go Chiefs!) 🏈
